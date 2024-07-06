@@ -5,6 +5,13 @@
 
 ```
 git clone https://github.com/debasisPanda05/COE.git
-cd form 
+```
+```
+cd form
+```
+``` 
 npm install
+```
+```
+npm start
 ```
