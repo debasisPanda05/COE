@@ -1,7 +1,7 @@
 # Form & Validation
 
 #### Installation Guide
-1. Node Package manager
+1. Go to terminal then type
 
 ```
 git clone https://github.com/debasisPanda05/COE.git
